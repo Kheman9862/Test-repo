@@ -1,0 +1,38 @@
+    public class a4{
+        public static void main(String args[]){
+            
+        }
+    }
+
+
+//Armstrong number and between the interval no.
+
+// This is a31 program
+//public class Time{
+
+// There are pyramid and pattern questions that i am skipping
+
+
+//converting string to char and char to string
+char[] chars = st.toCharArray();//string to char
+
+String st = String.valueOf(ch);
+String st2 = new String(ch);
+
+
+//Check if String is Empty or Null
+//if(str != null && !str.isEmpty())
+//However, the above program doesn't return empty if a string contains only whitespace characters (spaces). Technically, isEmpty() sees it contains spaces and returns false. For string with spaces, we use the string method trim() to trim out all the leading and trailing whitespace characters.
+//!str.trim().isEmpty()
+
+
+
+
+/* long milliseconds = 1000000;
+
+        // long minutes = (milliseconds / 1000) / 60;
+        long minutes = TimeUnit.MILLISECONDS.toMinutes(milliseconds);
+
+        // long seconds = (milliseconds / 1000);
+        long seconds = TimeUnit.MILLISECONDS.toSeconds(milliseconds);
+*/
